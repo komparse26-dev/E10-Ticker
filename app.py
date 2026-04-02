@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-API_KEY = "eff258d2-d6a8-4db9-94b3-95e514b48511"  # <-- hier deinen Tankerkoenig API-Key eintragen
+API_KEY = "eff258d2-d6a8-4db9-94b3-95e514b48511"
 
 LAT = 49.352   # Wendelstein
 LNG = 11.150
